@@ -6,7 +6,7 @@
 
 typedef double element;
 typedef Eigen::Matrix<element, Eigen::Dynamic, Eigen::Dynamic> dataMatrix;
-
+// use typedef, more flexible.
 #ifndef CLION_BASICSETTINGS_H
 #define CLION_BASICSETTINGS_H
 

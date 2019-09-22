@@ -214,10 +214,10 @@ CMakeFiles/Clion.dir/Data.cpp.obj
  .././eigen/Eigen/src/plugins/CommonCwiseUnaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
- C:/Ccode/machien-learing-lab1/BasicSettings.h
- C:/Ccode/machien-learing-lab1/Data.cpp
- C:/Ccode/machien-learing-lab1/Data.h
- C:/Ccode/machien-learing-lab1/ProductStrategy.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.cpp
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
 CMakeFiles/Clion.dir/LeastSquare.cpp.obj
  .././eigen/Eigen/Cholesky
  .././eigen/Eigen/Core
@@ -431,11 +431,11 @@ CMakeFiles/Clion.dir/LeastSquare.cpp.obj
  .././eigen/Eigen/src/plugins/CommonCwiseUnaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
- C:/Ccode/machien-learing-lab1/BasicSettings.h
- C:/Ccode/machien-learing-lab1/Data.h
- C:/Ccode/machien-learing-lab1/LeastSquare.cpp
- C:/Ccode/machien-learing-lab1/LeastSquare.h
- C:/Ccode/machien-learing-lab1/ProductStrategy.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.cpp
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
 CMakeFiles/Clion.dir/ProductStrategy.cpp.obj
  .././eigen/Eigen/Cholesky
  .././eigen/Eigen/Core
@@ -649,9 +649,9 @@ CMakeFiles/Clion.dir/ProductStrategy.cpp.obj
  .././eigen/Eigen/src/plugins/CommonCwiseUnaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
- C:/Ccode/machien-learing-lab1/BasicSettings.h
- C:/Ccode/machien-learing-lab1/ProductStrategy.cpp
- C:/Ccode/machien-learing-lab1/ProductStrategy.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.cpp
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
 CMakeFiles/Clion.dir/main.cpp.obj
  .././eigen/Eigen/Cholesky
  .././eigen/Eigen/Core
@@ -865,8 +865,8 @@ CMakeFiles/Clion.dir/main.cpp.obj
  .././eigen/Eigen/src/plugins/CommonCwiseUnaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  .././eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
- C:/Ccode/machien-learing-lab1/BasicSettings.h
- C:/Ccode/machien-learing-lab1/Data.h
- C:/Ccode/machien-learing-lab1/LeastSquare.h
- C:/Ccode/machien-learing-lab1/ProductStrategy.h
- C:/Ccode/machien-learing-lab1/main.cpp
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
+ C:/Ccode/HIT-ML-Lab/machien-learing-lab1/main.cpp

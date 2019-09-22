@@ -1066,29 +1066,41 @@ lapacke_mangling.h
 
 .././eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
-C:/Ccode/machien-learing-lab1/BasicSettings.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
 Eigen/Dense
 -
 bits/stdc++.h
 -
 
-C:/Ccode/machien-learing-lab1/Data.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.cpp
+Data.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
+
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
 utility
 -
 ProductStrategy.h
-C:/Ccode/machien-learing-lab1/ProductStrategy.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
 
-C:/Ccode/machien-learing-lab1/LeastSquare.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.cpp
+LeastSquare.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.h
+
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.h
 Data.h
-C:/Ccode/machien-learing-lab1/Data.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.h
 
-C:/Ccode/machien-learing-lab1/ProductStrategy.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.cpp
+ProductStrategy.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
+
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.h
 utility
 -
 BasicSettings.h
-C:/Ccode/machien-learing-lab1/BasicSettings.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/BasicSettings.h
 
-C:/Ccode/machien-learing-lab1/main.cpp
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/main.cpp
 LeastSquare.h
-C:/Ccode/machien-learing-lab1/LeastSquare.h
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.h
 

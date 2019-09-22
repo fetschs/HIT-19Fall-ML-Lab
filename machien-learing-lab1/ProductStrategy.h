@@ -40,9 +40,14 @@ public:
     explicit ProductContext(ProductStrategy *pStrategy);
 
     ~ProductContext();
-
+    /*
+     * use strategy to product Y_matrix.
+     */
     dataMatrix useStrategy(dataMatrix X_Matrix);
-
+    /**
+     * update product strategy.
+     * @param pStrategy strategy will update.
+     */
     void setProductStrategy(ProductStrategy *pStrategy);
 
 private:

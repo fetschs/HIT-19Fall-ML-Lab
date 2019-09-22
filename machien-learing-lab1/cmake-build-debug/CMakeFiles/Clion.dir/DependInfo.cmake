@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Ccode/machien-learing-lab1/Data.cpp" "C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/Data.cpp.obj"
-  "C:/Ccode/machien-learing-lab1/LeastSquare.cpp" "C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/LeastSquare.cpp.obj"
-  "C:/Ccode/machien-learing-lab1/ProductStrategy.cpp" "C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/ProductStrategy.cpp.obj"
-  "C:/Ccode/machien-learing-lab1/main.cpp" "C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/main.cpp.obj"
+  "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/Data.cpp" "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/Data.cpp.obj"
+  "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/LeastSquare.cpp" "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/LeastSquare.cpp.obj"
+  "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/ProductStrategy.cpp" "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/ProductStrategy.cpp.obj"
+  "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/main.cpp" "C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

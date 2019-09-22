@@ -12,18 +12,42 @@
 
 class Data {
 public:
+    /**
+     * move constructor.
+     * @param xMatrix X_matrix
+     * @param yMatrix Y_matrix
+     */
     Data(dataMatrix xMatrix, dataMatrix yMatrix) : X_matrix(std::move(xMatrix)),
-                                                                 Y_matrix(std::move(yMatrix)) {}
+                                                   Y_matrix(std::move(yMatrix)) {}
 
+    /**
+     * create an X vector, float numbers in it will be evenly distributed in [-1,1]
+     * and int or else will be evenly distributed in its values.
+     * @param dataNum the number of data will create.
+     * @return the X_matrix,
+     */
     static dataMatrix createX_matrix(int dataNum);
-
+    /**
+     * creat an X_matrix for poly experiment
+     * each data will get
+     * @param dataNum
+     * @param order
+     * @return
+     */
     static dataMatrix createX_matrixForPoly(int dataNum, int order);
 
+     /**
+      *
+      * @param dMatrix
+      * @param mean
+      * @param deviation
+      */
     static void addNoise(dataMatrix &dMatrix, element mean, element deviation);
 
     /**
     * generate Random value with Gauss.
     * @param mean the mean of the distribution.
+    * @param deviation the deviation of the distribution.
     * @return double value.
     */
     static element generateRandom(element mean, element deviation);
@@ -41,14 +65,17 @@ public:
         this->productY_matrix();
     }
 
-
+    /**
+     * set the Y_matrix, which used to update Y_matrix.
+     * @param yMatrix Y_matrix will update.
+     */
     void setY_Matrix(const dataMatrix &yMatrix);
 
 
 private:
-    dataMatrix X_matrix;
-    dataMatrix Y_matrix;
-    ProductContext context;
+    dataMatrix X_matrix;// input matrix
+    dataMatrix Y_matrix;// label matrix
+    ProductContext context;//function context, use to create Data.
 
     /**
      * call this product Y_matrix, auto call in constructor.

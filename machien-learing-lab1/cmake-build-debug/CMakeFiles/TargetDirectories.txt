@@ -1,3 +1,3 @@
-C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir
-C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Ccode/machien-learing-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/Clion.dir
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ccode/HIT-ML-Lab/machien-learing-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
