@@ -34,6 +34,6 @@ draw.py用于画图可视化拟合曲线，依赖于matplotlib和numpy库。
 
 欢迎阅读[我的博客](https://www.fets.xyz/)，里面有关于最小二乘法的总结。
 
-下附代码默认参数得到的拟合曲线。
+下附一个效果比较好的拟合曲线。
 
 ![avatar](https://s2.ax1x.com/2019/09/22/upfwEd.png)
