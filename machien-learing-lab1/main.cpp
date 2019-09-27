@@ -5,11 +5,11 @@
 #include "LeastSquare.h"
 
 int main() {
-    const int order = 6;
-    const int dataNum = 20;
+    const int order = ;
+    const int dataNum = 10;
     const int testDataNum = 1000;
-    const int norm = 2;
-    const int epochs = 1000000;
+    const int norm = 0;
+    const int epochs = 100;
     const element mean = 0.1;
     const element deviation = 0.1;
     const element learningRate = 0.000001;
@@ -18,7 +18,7 @@ int main() {
 
     Data trainData = Data(Data::createX_matrixForPoly(dataNum, order), ProductContext(new SinStrategy));
     dataMatrix Y_matrix = trainData.getY_matrix().col(1);
-    Data::addNoise(Y_matrix, mean, deviation);
+    //Data::addNoise(Y_matrix, mean, deviation);
     trainData.setY_Matrix(Y_matrix);
     // generate train dataset.
 
@@ -37,6 +37,7 @@ int main() {
     testData.setY_Matrix(Y_matrix);
     Data *testDataPtr = &testData;
     //generate test dataset.
+
 
     dataMatrix W_matrixByBGD = LeastSquare::getW_matrixByBatchGradientDescent(trainData, norm, lambda, epochs,
                                                                               learningRate, testDataPtr);
