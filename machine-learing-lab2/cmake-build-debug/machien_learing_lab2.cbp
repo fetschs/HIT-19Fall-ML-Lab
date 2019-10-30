@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="machien_learing_lab2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="machine_learing_lab2">
+				<Option output="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/machine_learing_lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/./eigen"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 machine_learing_lab2"/>
+					<CompileFile command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="machine_learing_lab2/fast">
+				<Option output="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/machine_learing_lab2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/./eigen"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\program files (x86)\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 machine_learing_lab2/fast"/>
+					<CompileFile command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MinGW/bin/mingw32-make.exe -f &quot;C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/BasicSettings.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/Data.cpp">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/Data.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/LearingAlgorithm.cpp">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/LearingAlgorithm.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/LogisticRegression.cpp">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/LogisticRegression.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/MultivariateNormalRandomVariable.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/ProductStrategy.cpp">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/ProductStrategy.h">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/main.cpp">
+			<Option target="machine_learing_lab2"/>
+		</Unit>
+		<Unit filename="C:/Ccode/HIT-ML-Lab/machine-learing-lab2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
