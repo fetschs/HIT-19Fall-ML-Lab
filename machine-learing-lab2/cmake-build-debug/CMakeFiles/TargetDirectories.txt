@@ -1,3 +1,0 @@
-C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/CMakeFiles/machine_learing_lab2.dir
-C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug/CMakeFiles/edit_cache.dir

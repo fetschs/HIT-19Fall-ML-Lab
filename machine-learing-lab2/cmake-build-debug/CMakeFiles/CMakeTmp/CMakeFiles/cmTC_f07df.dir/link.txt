@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\CLion\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_f07df.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\cmTC_f07df.dir/objects.a @CMakeFiles\cmTC_f07df.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_f07df.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f07df.exe -Wl,--out-implib,libcmTC_f07df.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f07df.dir\linklibs.rsp

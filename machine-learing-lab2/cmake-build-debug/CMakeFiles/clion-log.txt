@@ -1,4 +1,0 @@
-"C:\Program Files (x86)\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Ccode\HIT-ML-Lab\machine-learing-lab2
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Ccode/HIT-ML-Lab/machine-learing-lab2/cmake-build-debug
